@@ -17,6 +17,7 @@ Appium Inspector
 SLF4J Logging
 
 Project Structure
+
 <img width="341" height="473" alt="image" src="https://github.com/user-attachments/assets/6d33192c-5005-4482-9994-1c5e71a8064d" />
 
 Prerequities
